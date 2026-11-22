@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+out/
+*.pdf
+*.mp3
+*.m4a
+*.m4b
+.DS_Store
+.pytest_cache/
